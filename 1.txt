@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 user 1 dodal
 czyszcze
+=======
+czyszcze
+user 2 dodal
+>>>>>>> 40656b653292bc595111edef122ad2d20388c72c
