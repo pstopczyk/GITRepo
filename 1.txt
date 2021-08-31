@@ -1,8 +1,1 @@
-jakaś zmiana
-<<<<<<< HEAD
-zmiana przez usera 2
-zmiana przez usera1
-=======
-zmiana przez usera1
-druga zmiana przez usera 1
->>>>>>> 7f1d0aba3d604bf98247a6d3ebf06e42fd043687
+czyszcze
